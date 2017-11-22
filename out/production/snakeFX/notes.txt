@@ -1,0 +1,13 @@
+TODO list
+Musts:
+    Take a look at the ghost behaviour again. There seems to be a crash, when it changes from dead to random, sometimes.
+    Remove the random buttons, or add functionality to them
+    Debug knap (bare brug "Button")
+    Try to make an open area in the maze.
+
+Nice to have:
+    Take a look the BiDirectional script again. Check the todo.
+    Fix the movement, so you don't stop when moving into a wall, but continue along the previous direction.
+    Organize stuff neatly in packages..
+    Check for unused code
+    Optimization
